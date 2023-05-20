@@ -4,3 +4,6 @@ Object Detection in Omnidirectional Images", IEEE Transactions on Circuits and S
 
 ## Code
 The code is coming soon.
+
+## Results
+Our results can be downloaded at [results](./SalMap.zip) 
